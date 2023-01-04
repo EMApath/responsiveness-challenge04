@@ -43,7 +43,7 @@ h2 {
   width: 80%;
   max-width: 1100px;
   margin: 0 auto;
-  padding: 3em;
+  padding: 3em 0;
 }
 
 .row {
